@@ -43,6 +43,7 @@ export const Navbar = () => {
     <nav
       className="
         glass
+        bg-black/30
         fixed
         top-6
         left-1/2
@@ -157,7 +158,7 @@ export const Navbar = () => {
           {/* DESKTOP RESUME BUTTON */}
 
           <a
-            href="/resume.pdf"
+            href="/public/Hemachandran.K.pdf"
             target="_blank"
             rel="noopener noreferrer"
 
@@ -275,7 +276,7 @@ export const Navbar = () => {
             {/* MOBILE RESUME BUTTON */}
 
             <a
-              href="/resume.pdf"
+              href="/public/Hemachandran.K.pdf"
               target="_blank"
               rel="noopener noreferrer"
 
